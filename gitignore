@@ -1,0 +1,47 @@
+# Ignore docs files
+_gh_pages
+_site
+_docs
+.ruby-version
+.gitignore
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.log
+*.orig
+*.rej
+*.swo
+*.swp
+*.vi
+*.zip
+*.iml
+*~
+
+# OS or Editor folders
+._*
+.classpath
+.cache
+.DS_Store
+.idea
+target
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+Thumbs.db
+
+# Komodo
+.komodotools
+*.komodoproject
+
+# grunt-html-validation
+validation-report.json
+validation-status.json
+
+# Folders to ignore
+bower_components
+node_modules
